@@ -33,7 +33,7 @@ const handleCommand = async (key) => {
 
 //打开Orthanc
 function openOthanc() {
-  window.location.href = 'http://localhost:8042/app/explorer.html'
+  window.location.href = 'http://localhost:8042/ui/app/index.html#/'
 }
 </script>
 
